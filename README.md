@@ -1,1 +1,1 @@
-This is the notes of langchain.js
+This is the langchain.js notes
